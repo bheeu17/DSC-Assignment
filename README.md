@@ -5,12 +5,6 @@ This repository contains the full implementation of the **DSC212 Graph Theory as
 
 ---
 
-## 📁 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `DSC212_karate_modularity_explained.ipynb` | Fully explained notebook with Markdown commentary, code, visuals, and metric plots. |
-| `DSC212_karate_summary.json` | Summary of final communities produced by the algorithm. |
 
 ---
 
@@ -58,20 +52,6 @@ These are plotted to observe how structural roles evolve during community detect
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-```
-git clone https://github.com/your-username/your-repo-name
-cd your-repo-name
-```
-
-2. Launch the notebook:
-```
-jupyter notebook DSC212_karate_modularity_explained.ipynb
-```
-
-3. Run all cells top-to-bottom.
 
 ---
 
